@@ -1,0 +1,2 @@
+# wickety
+android application for cricket score marking
